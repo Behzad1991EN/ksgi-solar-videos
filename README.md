@@ -27,4 +27,3 @@ Location: Alborz Province, Iran. Approximate locality coordinates: 35.9646 N, 50
 Times use inferred Iran standard time, UTC+03:30.
 Source simulations use synthetic Meteonorm weather.
 Sources: Yearly/Fixed Tilt Year round simulation Report.CSV and Yearly/Tracker Information.CSV.
-
