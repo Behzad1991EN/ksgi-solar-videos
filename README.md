@@ -1,5 +1,7 @@
 # Seasonal solar-production videos
 
+[Open the public video gallery](https://behzad1991en.github.io/ksgi-solar-videos/)
+
 16 separate MP4 clips: one power video and one cumulative generated-energy video for each date.
 All clips are silent, 30 seconds, 1920 x 1080, 30 fps.
 
