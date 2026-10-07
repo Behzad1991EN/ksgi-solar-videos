@@ -6,7 +6,7 @@
 
 Use Yearly for the complete year. Three separate menus follow in order: Season for the four complete seasonal curves, Month for all twelve months, and Days for one sample date per month (the 10th). Each view has a power video and a generated-energy video.
 
-Only the Season dropdown uses seasonal colours: Spring light green, Summer light red, Autumn light orange, and Winter light gray.
+The Season and Days dropdowns use matching seasonal colours: Spring light green, Summer light red, Autumn light orange, and Winter light gray.
 
 ## Yearly, seasonal and monthly views
 
