@@ -4,7 +4,7 @@
 
 58 separate 30-second, silent, 1080p MP4 videos compare fixed-tilt and tracker systems.
 
-Use Yearly for the complete year. Three separate menus follow in order: Season for the four complete seasonal curves, Month for all twelve months, and Days for one sample date per month (the 10th). Each view has a power video and a generated-energy video.
+Choose one of four navigation tabs: Yearly, Seasonal, Monthly, or Sample Days. Each section shows its own options: the complete year, four seasons, twelve months, or one sample date per month (the 10th). Only the chosen section and its selected video pair are displayed. Choices are remembered when switching sections. Each view has a power video and a generated-energy video.
 
 The Season and Days dropdowns use matching seasonal colours: Spring light green, Summer light red, Autumn light orange, and Winter light gray.
 
